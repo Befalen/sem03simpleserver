@@ -1,2 +1,7 @@
+github.com/Befalen/funtemps v0.0.0-20230426155739-05aeb745721c h1:nOzNqyjcSuSBvhcnafarmreGbIUHLBJF572h0ozBu1I=
+github.com/Befalen/funtemps v0.0.0-20230426155739-05aeb745721c/go.mod h1:09BWldaVnM5IGelx8lP3gOtINKS1NEEEtsuSwWoMmYA=
 github.com/Befalen/is105sem03 v0.0.0-20230423131103-f668acc2c43a h1:WrKOHR/oedu05Fpsqt9SS5VYUMBHAeHt6OBD2NyEwes=
 github.com/Befalen/is105sem03 v0.0.0-20230423131103-f668acc2c43a/go.mod h1:vGLzPCrIFvlmARExs2qJVkKh4n2ZmrmpAM3eu52Aspk=
+github.com/Befalen/minyr v0.0.0-20230426155900-daaabb8822f6 h1:9UW5ZAJYYeA+0xUWjn/oMoE2lYf5+abOQksJHYRvKj4=
+github.com/Befalen/minyr v0.0.0-20230426155900-daaabb8822f6/go.mod h1:Indij3OoyllLEKGxwFzIdRA+FAl3MkbN6tgPoCXWQmg=
+github.com/befalen/funtemps v0.0.0-20230224225114-ecca1d6e9565/go.mod h1:9LRPggoX4i8SW7LfIlBnq3gThMfWGD5QyU3wGurz8QU=
